@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Website of MR.Chefu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 05 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://CryptoTW.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Defi</title>
+      <link>https://CryptoTW.github.io/tags/defi/</link>
+      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://CryptoTW.github.io/tags/defi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>加密貨幣</title>
+      <link>https://CryptoTW.github.io/tags/%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3/</link>
+      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://CryptoTW.github.io/tags/%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>挖掘幣種</title>
+      <link>https://CryptoTW.github.io/tags/%E6%8C%96%E6%8E%98%E5%B9%A3%E7%A8%AE/</link>
+      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://CryptoTW.github.io/tags/%E6%8C%96%E6%8E%98%E5%B9%A3%E7%A8%AE/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>HUGO</title>
@@ -35,15 +62,6 @@
       <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://CryptoTW.github.io/tags/%E4%B8%AD%E5%BF%83%E5%8C%96%E4%BA%A4%E6%98%93%E6%89%80/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>加密貨幣</title>
-      <link>https://CryptoTW.github.io/tags/%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3/</link>
-      <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://CryptoTW.github.io/tags/%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3/</guid>
       <description></description>
     </item>
     
